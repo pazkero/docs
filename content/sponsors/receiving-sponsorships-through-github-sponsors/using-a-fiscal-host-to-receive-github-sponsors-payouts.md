@@ -23,6 +23,7 @@ When you sign up for a {% data variables.product.prodname_sponsors %} profile so
 - [NumFOCUS](https://www.numfocus.org/)
 - [Open Collective Europe](https://opencollective.com/europe)
 - [Software Underground](https://softwareunderground.org/)
+- [Software in the Public Interest, Inc.](https://spi-inc.org/)
 
 ## Choosing to use a fiscal host
 
